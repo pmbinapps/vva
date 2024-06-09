@@ -55,7 +55,7 @@
       "@value": "test"
     },
     "motivation": {
-      "@value": "tset"
+      "@value": "test"
     },
     "rationale": {
       "@value": "test"
@@ -67,7 +67,7 @@
           "@value": "Label"
         },
         "uri": {
-          "@value": "https://test-sanchonet.govtool.byron.network/create_governance_action"
+          "@value": "https://test.com"
         }
       }
     ],
