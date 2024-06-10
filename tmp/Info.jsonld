@@ -52,13 +52,13 @@
   },
   "body": {
     "abstract": {
-      "@value": "test"
+      "@value": "abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQ"
     },
     "motivation": {
-      "@value": "test"
+      "@value": "abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQ"
     },
     "rationale": {
-      "@value": "test"
+      "@value": "abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !\"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQ"
     },
     "references": [
       {
@@ -67,12 +67,75 @@
           "@value": "Label"
         },
         "uri": {
-          "@value": "https://test.com"
+          "@value": "https://test1.com"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "https://test2.com"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "https://test3.com"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "https://test4.com"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "https://test5.com"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "https://test6.com"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "https://test7.com"
+        }
+      },
+      {
+        "@type": "Other",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "https://test8.com"
         }
       }
     ],
     "title": {
-      "@value": "test"
+      "@value": "12345678901234567890123456789012345678901234567890123456789012345678901234567890"
     }
   }
 }
