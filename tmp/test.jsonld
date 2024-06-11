@@ -66,7 +66,7 @@
           "@value": "Label"
         },
         "uri": {
-          "@value": "https://test.com"
+          "@value": "test.com"
         }
       }
     ]
