@@ -7,23 +7,7 @@
     "body": {
       "@id": "CIP108:body",
       "@context": {
-        "references": {
-          "@id": "CIP108:references",
-          "@container": "@set",
-          "@context": {
-            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
-            "Other": "CIP100:OtherReference",
-            "label": "CIP100:reference-label",
-            "uri": "CIP100:reference-uri",
-            "referenceHash": {
-              "@id": "CIP108:referenceHash",
-              "@context": {
-                "hashDigest": "CIP108:hashDigest",
-                "hashAlgorithm": "CIP100:hashAlgorithm"
-              }
-            }
-          }
-        },
+        
         "title": "CIP108:title",
         "abstract": "CIP108:abstract",
         "motivation": "CIP108:motivation",
